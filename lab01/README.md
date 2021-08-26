@@ -8,4 +8,4 @@
 
 ![Diagram de Orquestração](images/agua.png)
 
-![Diagram de Orquestração](images/cidade.png)
+![Diagram de Orquestração](images/cidades.png)
