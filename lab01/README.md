@@ -14,7 +14,7 @@ Estrutura de pastas:
 * `218733`: `Joao Pedro de Moraes Bonucci`
 
 ## Tarefa 1 sobre APIs de acesso
->[link para o notebook neste repositório](notebook/lab01-api.ipynb)
+>[link para o notebook neste repositório](notebook/lab01.ipynb)
 
 ## Tarefa 2 sobre Engenharia Reversa
 >[Diagram de Orquestração](images/market.png)
