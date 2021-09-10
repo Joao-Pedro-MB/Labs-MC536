@@ -14,4 +14,4 @@ Estrutura de pastas:
 * `218733`: `Joao Pedro de Moraes Bonucci`
 
 ## Tarefa sobre Consultas SQL no NHANES
-> [link para o notebook](/notebook/lab04-nhanes.ipynb)
+> [link para o notebook](notebook/lab04-nhanes.ipynb)
