@@ -4,6 +4,8 @@ Estrutura de pastas:
 
 ~~~
 ├── README.md  <- arquivo apresentando a tarefa
+|
+|── data  <- arquivos CSV extraidos do NHANES
 │
 └── notebook   <- arquivos do notebook
 ~~~
