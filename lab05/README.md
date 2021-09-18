@@ -22,7 +22,7 @@ RETURN Marcador,Categoria
 ~~~
 
 Query retornada:
-![o]('1.png)
+![o]('1.png')
 
 ## Tarefa 2
 
@@ -37,4 +37,4 @@ RETURN Marcador
 ~~~
 
 Query retornada:
-![o]('2.png)
+![o]('2.png')
