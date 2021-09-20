@@ -21,8 +21,6 @@ MATCH(Marcador)-[:Pertence]->(Categoria{id: 'Serviços'})
 RETURN Marcador,Categoria
 ~~~
 
-Query retornada:
-![o](2.png)
 
 ## Tarefa 2
 
@@ -31,10 +29,7 @@ Escreva em Cypher uma consulta que retorne os marcadores da categoria `Serviços
 ### Resolução
 ~~~cypher
 MATCH(Marcador)
-WHERE(Marcador)-[:Pertence]->()-[:Superior]->({id: 'Serviços'}) OR 
-(Marcador)-[:Pertence]->({id: 'Serviços'})
-RETURN Marcador
+WHERE (Marcador)-[:Pertence]->()-[:Superior*1..]->({id: 'Serviços'}) OR (Marcador)-[:Pertence]->({id: 'Serviços'})
+RETURN  DISTINCT Marcador
 ~~~
 
-Query retornada:
-![o](1.png)
