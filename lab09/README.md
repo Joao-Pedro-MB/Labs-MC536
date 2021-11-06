@@ -11,12 +11,12 @@ Estrutura de pastas:
 # Aluno
 * `218733`: `Joao Pedro de Moraes Bonucci`
 
-## Modelo Grafo de Conhecimento
+## Modelo de Grafo de Conhecimento - para publicar ou enriquecer
 > ![graph](images/graph.png)
 
-## Perguntas de Pesquisa/análise
+## Perguntas de Pesquisa ou Queries
 
-> Perguntas de pesquisa respondids pelo graf proposto
+> Liste aqui as três perguntas de pesquisa ou queries
 > * Qual a cidade com mais casos?
 > * Quais os sintomas mais frequentes?
 > * Qual a probabilidade de infecção com contato?
